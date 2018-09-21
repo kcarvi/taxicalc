@@ -1,5 +1,5 @@
 # taxicalc
 Taxi Fare Calculator in Baku (Azerbaijan)
 
-#Fork
+# Fork
 https://github.com/thaigogo/thaigogo-source/blob/master/source/bangkok-taxi-calculator.html.erb
